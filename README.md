@@ -1,2 +1,1 @@
-# Hello-world
-初次使用Git-hub创建的文件
+存储一些 Google Colab 文件
